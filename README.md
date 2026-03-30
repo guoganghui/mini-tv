@@ -1,2 +1,2 @@
 # -TV
-迷你TV
+mini-tv
